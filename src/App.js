@@ -23,7 +23,7 @@ function App() {
           />
           <Button
               title={"pre-orders"}
-              disabled={true}
+              disabled={false}
           />
         </nav>
         <main>
